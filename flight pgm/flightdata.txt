@@ -1,5 +1,0 @@
- FlightNumber   : 1500 : 1600 : 1700 : 
- CityName       : jnk : ktm : brj : 
- FlightDistance : 100 : 200 : 300 : 
- FlightPrice    : 500 : 600 : 700 : 
- PriceDiscount  : 200 : 240 : 280 : 

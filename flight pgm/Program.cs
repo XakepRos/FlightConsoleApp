@@ -10,7 +10,7 @@ namespace flight_pgm
 {
     public class flightDetails
     {
-        static int N = 3;
+        static int N = 2;
         static List<flightProperties> detail = new List<flightProperties>();
         
         public static void Main(string[] args)
